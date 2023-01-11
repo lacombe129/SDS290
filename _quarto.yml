@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - syllabus.qmd
-      - schedule.Rmd
+      - mp_1.qmd
 
 format:
   html:

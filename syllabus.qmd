@@ -24,11 +24,10 @@ One major objective of this course is to give you practice with all four of thes
 
 1.  Distinguish between observational and experimental studies, and explain the advantages and disadvantages of each.
 2.  Explain the three design principles: random assignment, blocking, factorial crossing.
-3.  Identify the factor structures of the four basic experimental designs: 1) One-way Basic Factorial, 2) One-way Complete Block, 3) Two-way Basic Factorial, and 4) Split Plot/Repeated Measures.
-4.  Recognize potential sources of confounding and selection bias.
-5.  Combine the four basic designs to recommend, recognize, and create new designs.
-6.  Carry out, document, and explain a randomization plan for a survey or an experiment.
-7.  Analyze data using R statistical software:
+3.  Recognize potential sources of confounding and selection bias.
+4.  Combine the four basic designs to recommend, recognize, and create new designs.
+5.  Carry out, document, and explain a randomization plan for a survey or an experiment.
+6.  Analyze data using R statistical software:
     i.  Name and be able to check the six Fisher Assumptions.
     ii. Calculate and interpret an analysis of variance (ANOVA) table for each of the four basic designs.
     iii. Check for and interpret interactions between variables.
@@ -44,9 +43,9 @@ The first few chapters of the Cobb book are provided as PDFs on our course Moodl
 
 #### Class Structure
 
-All class sessions will be focused on active learning activities and there will be less lecturing. We will spend class time discussing your questions, looking at other examples, doing homework proclems, and doing activities. With this semi-flipped class structure, it is VERY important that you do the assigned readings before coming to class. To this end, I will be starting most class sessions with questions about the readings to encourage you to keep up with the reading and to synthesize your thoughts before we begin class. On some class sessions, I will be giving mini-lectures, but they will often be focused statistical computing in R. Many activities will be designed to give you experience using statistical software to do the extensive computations most statistical analyses require. The computer is faster and more accurate than we are at doing arithmetic and graphs, but we have to know what arithmetic and which graphs will be useful.
+All class sessions will be a combination of lecture, small group work, and discussion. We will spend class time discussing your questions, looking at other examples, and doing activities. With this structure, it is VERY important that you do the assigned readings before coming to class. To this end, I will be starting most class sessions with questions about the readings to encourage you to keep up with the reading and to synthesize your thoughts before we begin class. Many activities will be designed to give you experience using statistical software to do the extensive computations most statistical analyses require. The computer is faster and more accurate than we are at doing arithmetic and graphs, but we have to know what arithmetic and which graphs will be useful.
 
-The primary way you will get information about this course is from the course website. The course website will be regularly updated with handouts, project information, assignments, and other course resources. All assignments will be submitted via Moodle. Finally, this course will use Slack to communicate including announcements, discussions about extra credit events, group project channels, and other uses as the interterm progresses.
+All assignments will be submitted via Moodle. Finally, this course will use Slack to communicate including announcements, discussions about events, group project channels, and other uses as the semester progresses.
 
 ## Policies {#policies .unnumbered}
 
