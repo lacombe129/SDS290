@@ -9,7 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - syllabus.qmd
+      - href: syllabus.qmd 
+        text: syllabus.qmd
+      - href: schedule.html
+      - text: Schedule
 
 format:
   html:
