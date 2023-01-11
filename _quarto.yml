@@ -9,8 +9,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - syllabus.qmd
-      - mp_1.qmd
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: mp_1.qmd
+        text: Mini Project 1
 
 format:
   html:
