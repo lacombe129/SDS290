@@ -1,148 +1,94 @@
 ---
 title: "Syllabus"
----
-title: "Syllabus"
 output:
   html_document:
     df_print: paged
 ---
 
-About the Course {#about-the-course .smith}
-----------------
+## About the Course {#about-the-course .smith}
 
 #### Instructor
 
-- Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201. Scott's
-    office hours will be held on Wednesdays 10:50-12:05p or by appointment. I also have Zoom 
-    office hours on Fridays 12:15p-3:00p (find the Zoom link on our Moodle page).
+-   Scott LaCombe (`slacombe@smith.edu`).Wright Hall 201. Scott's office hours will be held on Wednesdays 10:50-12:05p or by appointment. I also have Zoom office hours on Fridays 12:15p-3:00p (find the Zoom link on our Moodle page).
 
 #### Description and Goals
 
-This course provides students with an overview of statistical methods needed for scientific research. 
-Our discussions will focus primarily on the basic principles of the design of experiments and 
-observational studies, standard balanced designs, extensions of these designs, and the analysis of 
-data collected under these designs. Most physical, biological, and social processes, produce 
-variable results. This variability can often be quantified and decomposed in ways that enhance 
-our understanding of the process and facilitate decision making. Statisticians and Data Scientists 
-use four steps to quantify and interpret this variability. The steps are: 
-	 
-1.	Formulate a statistical question about the process, 
-2.	Design a data collection procedure, or comparison scheme, to answer the question,
-3.	Collect and analyze the data, and
-4.	Interpret and communicate the results in written, visual, and oral forms.
+This course provides students with an overview of statistical methods needed for scientific research. Our discussions will focus primarily on the basic principles of the design of experiments and observational studies, standard balanced designs, extensions of these designs, and the analysis of data collected under these designs. Most physical, biological, and social processes, produce variable results. This variability can often be quantified and decomposed in ways that enhance our understanding of the process and facilitate decision making. Statisticians and Data Scientists use four steps to quantify and interpret this variability. The steps are:
 
-One major objective of this course is to give you practice with all four of these steps. Developing 
-our statistical thinking around the factors that produce variability in observations in a key goal of 
-all statistic courses. SDS 290 course goals:
+1.  Formulate a statistical question about the process,
+2.  Design a data collection procedure, or comparison scheme, to answer the question,
+3.  Collect and analyze the data, and
+4.  Interpret and communicate the results in written, visual, and oral forms.
 
-1.	Distinguish between observational and experimental studies, and explain the advantages and 
-    disadvantages of each.
-2.	Explain the three design principles: random assignment, blocking, factorial crossing.
-3.	Identify the factor structures of the four basic experimental designs: 1) One-way Basic Factorial, 2) One-way Complete Block, 3) Two-way Basic Factorial, and 4) Split Plot/Repeated Measures.
-4.	Recognize potential sources of confounding and selection bias.
-5.	Combine the four basic designs to recommend, recognize, and create new designs.
-6.	Carry out, document, and explain a randomization plan for a survey or an experiment.
-7.	Analyze data using R statistical software:  
+One major objective of this course is to give you practice with all four of these steps. Developing our statistical thinking around the factors that produce variability in observations in a key goal of all statistic courses. SDS 290 course goals:
+
+1.  Distinguish between observational and experimental studies, and explain the advantages and disadvantages of each.
+2.  Explain the three design principles: random assignment, blocking, factorial crossing.
+3.  Identify the factor structures of the four basic experimental designs: 1) One-way Basic Factorial, 2) One-way Complete Block, 3) Two-way Basic Factorial, and 4) Split Plot/Repeated Measures.
+4.  Recognize potential sources of confounding and selection bias.
+5.  Combine the four basic designs to recommend, recognize, and create new designs.
+6.  Carry out, document, and explain a randomization plan for a survey or an experiment.
+7.  Analyze data using R statistical software:
     i.  Name and be able to check the six Fisher Assumptions.
-    ii.  Calculate and interpret an analysis of variance (ANOVA) table for each of the four basic designs.
-    iii.  Check for and interpret interactions between variables.
+    ii. Calculate and interpret an analysis of variance (ANOVA) table for each of the four basic designs.
+    iii. Check for and interpret interactions between variables.
 
 **Prerequisite**: An introductory statistics such as SDS 220/201, ECO 220, PSY 201, or equivalent.
 
 #### Readings
 
-  + *STAT2: Modeling with Regression and ANOVA*, Second Edition by Ann R. Cannon, George W. Cobb, and Bradley A. Hartlaub. ISBN-13: 978-1319054076.  
-  + [PDFs provided on moodle] *Introduction to Design and Analysis of Experiments*, by George Cobb. Hardcover edition published by John Wiley & Sons, 1998, ISBN: 978-0-470-41216-9. 
+-   *STAT2: Modeling with Regression and ANOVA*, Second Edition by Ann R. Cannon, George W. Cobb, and Bradley A. Hartlaub. ISBN-13: 978-1319054076.\
+-   \[PDFs provided on moodle\] *Introduction to Design and Analysis of Experiments*, by George Cobb. Hardcover edition published by John Wiley & Sons, 1998, ISBN: 978-0-470-41216-9.
 
-The first few chapters of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class—time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.
+The first few chapters of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class---time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.
 
 #### Class Structure
 
-All class sessions will be focused on active learning activities and there will be less lecturing. We 
-will spend class time discussing your questions, looking at other examples, doing homework proclems, and 
-doing activities. With this semi-flipped class structure, it is VERY important that you do the assigned readings before coming to class. To this end, I will be starting most class sessions with questions about the readings to encourage you to 
-keep up with the reading and to synthesize your thoughts before we begin class. On some class sessions, I 
-will be giving mini-lectures, but they will often be focused statistical computing in R. Many activities 
-will be designed to give you experience using statistical software to do the extensive computations 
-most statistical analyses require. The computer 
-is faster and more accurate than we are at doing arithmetic and graphs, but we have to know what 
-arithmetic and which graphs will be useful.
+All class sessions will be focused on active learning activities and there will be less lecturing. We will spend class time discussing your questions, looking at other examples, doing homework proclems, and doing activities. With this semi-flipped class structure, it is VERY important that you do the assigned readings before coming to class. To this end, I will be starting most class sessions with questions about the readings to encourage you to keep up with the reading and to synthesize your thoughts before we begin class. On some class sessions, I will be giving mini-lectures, but they will often be focused statistical computing in R. Many activities will be designed to give you experience using statistical software to do the extensive computations most statistical analyses require. The computer is faster and more accurate than we are at doing arithmetic and graphs, but we have to know what arithmetic and which graphs will be useful.
 
-The primary way you will get information about this course is from the course website. The course website 
-will be regularly updated with handouts, project information, assignments, and other course resources. 
-All assignments will be submitted via Moodle. Finally, this course will use Slack to communicate including 
-announcements, discussions about extra credit events, group project channels, and other uses as the 
-interterm progresses.
+The primary way you will get information about this course is from the course website. The course website will be regularly updated with handouts, project information, assignments, and other course resources. All assignments will be submitted via Moodle. Finally, this course will use Slack to communicate including announcements, discussions about extra credit events, group project channels, and other uses as the interterm progresses.
 
-Policies {#policies .unnumbered}
---------
+## Policies {#policies .unnumbered}
 
 #### Attendance
 
-Participation has two components: 1) being present and 2) engaging in class activities. Your participation 
-is an important part of the process of learning statistics, and we need you in class to help stimulate 
-discussion. You can make a valuable contribution to the discussion by bringing up connections between our 
-work and study designs you have seen in other courses, in the newspaper, or in research literature. I 
-realize that, especially during these difficult times, you won’t always be able to get to class and I 
-ask that if you cannot make it to class that you please let me know why via a Slack direct message. There 
-be many different ways to participate in this course (Zoom sessions, Slack, office hours, group projects, 
-etc.) and you can demonstrate your participation in a combination of ways. 
-
+Participation has two components: 1) being present and 2) engaging in class activities. Your participation is an important part of the process of learning statistics, and we need you in class to help stimulate discussion. You can make a valuable contribution to the discussion by bringing up connections between our work and study designs you have seen in other courses, in the newspaper, or in research literature. I realize that, especially during these difficult times, you won't always be able to get to class and I ask that if you cannot make it to class that you please let me know why via a Slack direct message. There be many different ways to participate in this course (Zoom sessions, Slack, office hours, group projects, etc.) and you can demonstrate your participation in a combination of ways.
 
 #### Collaboration
 
-Much of this course will operate on a collaborative basis, and you are
-expected and encouraged to work together with a partner or in small
-groups to study, complete homework assignments, and prepare for exams.
-However, **every word that you write must be your own**. Copying and pasting
-sentences, paragraphs, or blocks of code from another student is not
-acceptable and will receive no credit. No interaction with anyone but
-the instructor and course assistant is allowed on any exams. All students, staff
-and faculty are bound by the Smith College Honor Code, which Smith has
-had since 1944.
-
+Much of this course will operate on a collaborative basis, and you are expected and encouraged to work together with a partner or in small groups to study, complete homework assignments, and prepare for exams. However, **every word that you write must be your own**. Copying and pasting sentences, paragraphs, or blocks of code from another student is not acceptable and will receive no credit. No interaction with anyone but the instructor and course assistant is allowed on any exams. All students, staff and faculty are bound by the Smith College Honor Code, which Smith has had since 1944.
 
 #### Academic Honor Code Statement
 
-Cases of dishonesty, 
-plagiarism, or other infractions, will be reported to the Academic Honor Board. You must always 
-provide appropriate citations for others’ work and ideas. Giving other scholars due credit in your 
-written and oral communication is a fundamental social gesture in academic work—a way for us to 
-acknowledge each other’s scholarship and signify that we respect each other. 
+Cases of dishonesty, plagiarism, or other infractions, will be reported to the Academic Honor Board. You must always provide appropriate citations for others' work and ideas. Giving other scholars due credit in your written and oral communication is a fundamental social gesture in academic work---a way for us to acknowledge each other's scholarship and signify that we respect each other.
 
-From the [Smith honor code website](https://www.smith.edu/sao/handbook/socialconduct/honorcode.php): 
+From the [Smith honor code website](https://www.smith.edu/sao/handbook/socialconduct/honorcode.php):
 
-> Smith College expects all students to be honest and committed to the principles of academic and intellectual 
-integrity in their preparation and submission of course 
-work and examinations. Students and faculty at Smith are part of an academic community defined by 
-its commitment to scholarship, which depends on scrupulous and attentive acknowledgement of all 
-sources of information, and honest and respectful use of college resources. 
-**Cases of dishonesty, plagiarism, etc., will be reported to the Academic Honor Board.**
+> Smith College expects all students to be honest and committed to the principles of academic and intellectual integrity in their preparation and submission of course work and examinations. Students and faculty at Smith are part of an academic community defined by its commitment to scholarship, which depends on scrupulous and attentive acknowledgement of all sources of information, and honest and respectful use of college resources. **Cases of dishonesty, plagiarism, etc., will be reported to the Academic Honor Board.**
 
-#### Classroom Environment  
+#### Classroom Environment
 
-Realizing the benefits of a diverse space can only occur if we create a climate of psychological safety (Edmondson, 1999). To this end, we will always be respectful of one another. Together we should have the goal of creating an environment where we all feel comfortable sharing our thoughts and opinions. To this end, I value **“half-formed,”** informal thoughts—sometimes a deeper understanding is reached via communicating ideas before they are perfectly polished.  
+Realizing the benefits of a diverse space can only occur if we create a climate of psychological safety (Edmondson, 1999). To this end, we will always be respectful of one another. Together we should have the goal of creating an environment where we all feel comfortable sharing our thoughts and opinions. To this end, I value **"half-formed,"** informal thoughts---sometimes a deeper understanding is reached via communicating ideas before they are perfectly polished.
 
-Please let me know **your gender pronouns** by changing your name in zoom and adding them. You can do this in your zoom account preferences or each class session by clicking the `...` symbol in your square. In your written work for this class I am fine with (even encourage) the use of “they,” “their,” or simply “she” instead of “his or her” or “he or she.” I am also fine with “ze” and “zir.” Just please do not write “he,” “his” or “himself” when referring to all people. We also should also not say “you guys” when referring to a mixed-gender group, or refer to women as “girls.” 
+Please let me know **your gender pronouns** by changing your name in zoom and adding them. You can do this in your zoom account preferences or each class session by clicking the `...` symbol in your square. In your written work for this class I am fine with (even encourage) the use of "they," "their," or simply "she" instead of "his or her" or "he or she." I am also fine with "ze" and "zir." Just please do not write "he," "his" or "himself" when referring to all people. We also should also not say "you guys" when referring to a mixed-gender group, or refer to women as "girls."
 
-#### Accommodations  
-Everyone should have all that they need to succeed in this course. Please send me your accommodation letter, or have the Disability Office work with me. If you need to register for accommodations, please contact the Disability Services office at ODS@smith.edu. Please check out the office [website](https://www.smith.edu/ods/) for more information. Smith provides flexible and individualized accommodation to students with documented disabilities that may affect their ability to fully participate in course activities or to meet course requirements. To receive accommodation services, students must be registered with the Smith College Disability Services office, College Hall 104; phone: (413) 585-2071 (voice, TTY, TDD).  Students with disabilities are encouraged to contact the instructor for a confidential discussion of their individual needs for academic accommodation. 
+#### Accommodations
+
+Everyone should have all that they need to succeed in this course. Please send me your accommodation letter, or have the Disability Office work with me. If you need to register for accommodations, please contact the Disability Services office at ODS\@smith.edu. Please check out the office [website](https://www.smith.edu/ods/) for more information. Smith provides flexible and individualized accommodation to students with documented disabilities that may affect their ability to fully participate in course activities or to meet course requirements. To receive accommodation services, students must be registered with the Smith College Disability Services office, College Hall 104; phone: (413) 585-2071 (voice, TTY, TDD). Students with disabilities are encouraged to contact the instructor for a confidential discussion of their individual needs for academic accommodation.
 
 If you have special needs concerning quiz taking, please bring documentation of your needs and make an appointment to discuss them with me, at least ONE WEEK BEFORE the first exxam. That will give me time to provide accommodation for your needs.
 
-Assignments {#assignments .unnumbered}
------------
+## Assignments {#assignments .unnumbered}
 
-1. **Homework** [40%]: Weekly homework will be due on **Fridays by 11:55p** on Moodle. Late homework will NOT be accepted except in cases of a family or personal health emergency. Homework will be a combination of problems sets from the book and statistical computation exercises in R. I recommend that you form study groups of 3 or 4 students from the class, and get together outside of class to discuss the homework. Each of you should try the exercises on your own and then get together to discuss your work. This process helps you to develop your own way of thinking about statistics questions before hearing how others think. **I will be dropping the lowest homework grade at the end of the term.** 
+1.  **Homework** \[40%\]: Weekly homework will be due on **Fridays by 11:55p** on Moodle. Late homework will NOT be accepted except in cases of a family or personal health emergency. Homework will be a combination of problems sets from the book and statistical computation exercises in R. I recommend that you form study groups of 3 or 4 students from the class, and get together outside of class to discuss the homework. Each of you should try the exercises on your own and then get together to discuss your work. This process helps you to develop your own way of thinking about statistics questions before hearing how others think. **I will be dropping the lowest homework grade at the end of the term.**
 
-2. **Participation**  [10%]: Active participation in class and regular attendance will comprise 10% of your grade. Most class periods will begin with questions from the reading for that day. Participating in the discussion about the readings is a great way to demonstrate engagement. Reading before class will help us move towards a “flipped” classroom. In non-flipped classrooms, students attend lectures and are asked to apply the material outside of class in the form of homework assignments. But often students need the most help from professors when they are in the midst of applying the material (Bergman & Sams, 2012). In flipped classrooms, students are asked to learn the facts at home and do the application in class. There will be many ways to demonstrate enagement throughout the term, and we will be recording attended by saving the participant list each day. 
+2.  **Participation** \[10%\]: Active participation in class and regular attendance will comprise 10% of your grade. Most class periods will begin with questions from the reading for that day. Participating in the discussion about the readings is a great way to demonstrate engagement. Reading before class will help us move towards a "flipped" classroom. In non-flipped classrooms, students attend lectures and are asked to apply the material outside of class in the form of homework assignments. But often students need the most help from professors when they are in the midst of applying the material (Bergman & Sams, 2012). In flipped classrooms, students are asked to learn the facts at home and do the application in class. There will be many ways to demonstrate enagement throughout the term, and we will be recording attended by saving the participant list each day.
 
-3.   **Exams** [20%]: There will be two take home exams throughout the term. See the schedule for tentative dates of these exams. They will usually be distributed on a Tuesday and due that Friday. You will have time in class to work on the exams.
+3.  **Exams** \[20%\]: There will be two take home exams throughout the term. See the schedule for tentative dates of these exams. They will usually be distributed on a Tuesday and due that Friday. You will have time in class to work on the exams.
 
-4. **Mini Projects and Presentations**  [30% - 10% MP1 + 20% MP2]: There will two mini projects during the semester. The first mini project (MP1) will be completed individually and the second mini project (MP2) will be completed in groups of three. For these projects, you and your group will be posing your own research questions and designing an experiment. The specific content of your mini projects will vary, but all projects will consist of designing an experiment (or appropriate observational study), collecting and analyzing data, and writing a technical report on your study. For MP2 each group of three students will complete an experiment together. During the last week of class, you (and your group) will create short presentation of your study and present it to the class. We’ll talk more about the project as the term proceeds and detailed instructions for the projects will be posted on the course website.
+4.  **Mini Projects and Presentations** \[30% - 10% MP1 + 20% MP2\]: There will two mini projects during the semester. The first mini project (MP1) will be completed individually and the second mini project (MP2) will be completed in groups of three. For these projects, you and your group will be posing your own research questions and designing an experiment. The specific content of your mini projects will vary, but all projects will consist of designing an experiment (or appropriate observational study), collecting and analyzing data, and writing a technical report on your study. For MP2 each group of three students will complete an experiment together. During the last week of class, you (and your group) will create short presentation of your study and present it to the class. We'll talk more about the project as the term proceeds and detailed instructions for the projects will be posted on the course website.
 
-
-#### Summary 
+#### Summary
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(knitr)
@@ -155,11 +101,11 @@ kable(cbind(Assignment, `Percent of Total`, `Due Date`))
 
 #### Grading
 
-When we grade your written work, I am looking for problem solutions that are technically correct and reasoning that is clearly explained. Numerically correct answers, alone, are not sufficient on homework or exams.  I value neatness and brief, clear, well-organized answers that explain your thinking. If the grader cannot read or follow your work, she cannot give you credit for it. The grader will check each homework submission for completeness and grade a subset of the exercises. Homework answer keys will be posted on Moodle after the due date. 
+When we grade your written work, I am looking for problem solutions that are technically correct and reasoning that is clearly explained. Numerically correct answers, alone, are not sufficient on homework or exams. I value neatness and brief, clear, well-organized answers that explain your thinking. If the grader cannot read or follow your work, she cannot give you credit for it. The grader will check each homework submission for completeness and grade a subset of the exercises. Homework answer keys will be posted on Moodle after the due date.
 
 #### Assignment Late Policy
 
-For every day late on the written assignments I will reduce your grade for that assignment by 1/3 letter grade (i.e., if you wrote a B+ report, but turned it in 1 day late, you’ll get a B. Two days late? B-, and so forth). I will not accept any late final group research reports. 
+For every day late on the written assignments I will reduce your grade for that assignment by 1/3 letter grade (i.e., if you wrote a B+ report, but turned it in 1 day late, you'll get a B. Two days late? B-, and so forth). I will not accept any late final group research reports.
 
 #### Final Grade Brackets
 
@@ -169,64 +115,67 @@ Percent <- c("95-100%", "90-95%", "87-89%",	"83-86%",	"80-82%", "77-79%", "73-76
 kable(cbind(Grade, Percent))
 ```
 
-
-
-Resources {#resources .unnumbered}
----------
+## Resources {#resources .unnumbered}
 
 #### Course Website and Moodle
 
-The [course website](https://lacombe129.github.io/SDS290/) will be regularly updated with lecture slides, project information, assignments, and other course resources. Assignments and grades will be submitted via Moodle. You should check both regularly. 
+The [course website](https://lacombe129.github.io/SDS290/) will be regularly updated with lecture slides, project information, assignments, and other course resources. Assignments and grades will be submitted via Moodle. You should check both regularly.
 
 #### Computing
 
 The use of the `R` statistical computing environment with the [RStudio](http://rstudio.org) interface is thoroughly integrated into the course. You have two options for using `RStudio`:
 
-* The **server** version of `RStudio` on the [web](http://rstudio.smith.edu). The advantage of using the server version is that all of your work will be stored in the cloud, where it is automatically saved and backed up. This means that you can access your work from any computer with a web browser (Firefox is recommended) and an Internet connection. 
-* A **desktop** version of `RStudio` installed on your machine. The downside to this approach is that your work is only stored locally, and you will have to manage your own installation. 
+-   The **server** version of `RStudio` on the [web](http://rstudio.smith.edu). The advantage of using the server version is that all of your work will be stored in the cloud, where it is automatically saved and backed up. This means that you can access your work from any computer with a web browser (Firefox is recommended) and an Internet connection.
+-   A **desktop** version of `RStudio` installed on your machine. The downside to this approach is that your work is only stored locally, and you will have to manage your own installation.
 
-Note that you do not have to choose one or the other -- you may use both. However, it is important that you understand the distinction so that you can keep track of your work. Both `R` and `RStudio` are free and open-source, and are installed on most computer labs on campus. Please see the [Resources](resources.html) page for help with `R`.  
-
+Note that you do not have to choose one or the other -- you may use both. However, it is important that you understand the distinction so that you can keep track of your work. Both `R` and `RStudio` are free and open-source, and are installed on most computer labs on campus. Please see the [Resources](resources.html) page for help with `R`.
 
 #### Use of Technology during Class
 
-As we will always be using our computers to attend this course, I hope it goes without saying that 
-while the class is in session, you should resist the temptation to use your computer or cell phone for personal 
-email, web browsing, social media, or any activity that’s not related to the class. 
+As we will always be using our computers to attend this course, I hope it goes without saying that while the class is in session, you should resist the temptation to use your computer or cell phone for personal email, web browsing, social media, or any activity that's not related to the class.
 
 #### Writing
 
-Your ability to communicate results, which may be technical in nature,
-to your audience, which is likely to be non-technical, is critical to
-your success as a data analyst. The assignments in this class will place
-an emphasis on the clarity of your writing.
+Your ability to communicate results, which may be technical in nature, to your audience, which is likely to be non-technical, is critical to your success as a data analyst. The assignments in this class will place an emphasis on the clarity of your writing.
 
 #### Extra Help
 
-There are [Statistics TAs](https://www.smith.edu/qlc/tutoring.html?colStats=open#PanelStats) available from 7:00-9:00pm on Sunday–Thursday
-evenings in Sabin-Reed 301. In addition, the Spinelli Center for
-Quantitative Learning (Seeley 207) supports students
-doing quantitative work across the curriculum. Your fellow students are also an
-excellent source for explanations, tips, etc.
+There are [Statistics TAs](https://www.smith.edu/qlc/tutoring.html?colStats=open#PanelStats) available from 7:00-9:00pm on Sunday--Thursday evenings in Sabin-Reed 301. In addition, the Spinelli Center for Quantitative Learning (Seeley 207) supports students doing quantitative work across the curriculum. Your fellow students are also an excellent source for explanations, tips, etc.
 
 #### Tentative Schedule
 
-Please refer to the complete [day-to-day schedule](schedule.html) for more detailed information. 
+Please refer to the complete [day-to-day schedule](schedule.html) for more detailed information.
 
 <!-- Week | Reading | Topic |  -->
+
 <!-- -----|---------|-------| -->
+
 <!-- 1 | Ch. 1 | Introduction to Four Basic Designs -->
+
 <!-- 2 | Ch. 2| Decisions about Content of an Experiment -->
+
 <!-- 3 | Ch. 3 | Formal Analysis of Variance (ANOVA) -->
+
 <!-- 4 | Ch. 5 | Basic Factorial Design -->
+
 <!-- 5 | | **Exam 1: take home due on March 7th** -->
+
 <!-- 6 | Ch. 6 | Factorial Crossing -->
+
 <!-- 7 | Ch. 7 | Complete Block Design and the Split-Plot Design -->
+
 <!-- 8 | Ch. 7 | Complete Block Design and the Split-Plot Design -->
+
 <!-- 9 | Ch. 9| Extending the Basic Designs -->
+
 <!-- 10 | Ch. 9| Extending the Basic Designs -->
+
 <!-- 11 | Ch. 11 | Correcting for Multiple Comparisons and Assumption Checking -->
+
 <!-- 12 | | **Exam 2: take home due on April 25th** -->
+
 <!-- 13 | | Projects -->
+
 <!-- 14 | | Projects and **Poster Presentations** -->
+
 <!-- May 9 | | **All work due** -->
