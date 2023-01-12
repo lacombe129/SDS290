@@ -13,6 +13,8 @@ website:
         text: Syllabus
       - href: mp_1.qmd
         text: Mini Project 1
+      - href: mp_2.qmd
+        text: Mini Project 2
 
 format:
   html:
