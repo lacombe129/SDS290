@@ -1,0 +1,73 @@
+---
+title: "Mini Project 2 Instructions"
+editor: visual
+---
+
+The learning goals of this second mini project are
+
+1.  to design an experiment where you have flexibility in your design choices,
+2.  to gain experience discussing design choices, and
+3.  to gain experience distributing research work within a collaborative team, and
+4.  to gain experience presenting your research work in an oral presentation format.
+
+You will again conduct an online experimental study using survey methodology in groups of about 3. Your experiments will be set up using the Qualtrics survey platform. Your experiments will again utilize [vingettes](https://en.wikipedia.org/wiki/Vignette_(psychology)) or very simple visual/audio stimuli presentation. In addition to submitting a technical report for MP2, your group will record a 5-to-10 minute presentation of your study, complete with slides. The professor will post these presentations on Moodle for your viewing pleasure.
+
+Your study is required to have at least one experimental factor, meaning you will manipulate this factor and randomly assign levels of those factors to units. For this second mini project you may pick any design your group likes, but you must have **at least two factors of interest**. These factors can be a mixture of experimental and observational factors. Your factors may each have more than **two levels** (but please do not go crazy --- a more complex design means you will need a larger sample size!). You may also decide to have blocking in this study. If you decide to have blocks, by far the simplest way to do this with human subjects is by *reusing* materials, that is, the participants are your blocks and the units are time slots. You might then decide to have one between-subjects factor and one within-subjects factor (creating a split-plot/repeated measures design). Creating blocks with human subjects by grouping people based on some pre-survey responses is just not feasible in the MP2 time frame, I hope you see why...
+
+This mini project will require you to design a new study, implement that study in Qualtrics, collect and analyze relevant data, and hand in a short written report describing your study and its findings. You will also submit a recorded presentation of slides. You will complete all of this work in groups of about 3 students. Your project will again involve fitting an *analysis of variance* (ANOVA) model. The project is an opportunity to apply and synthesize the material we are learning in class to a specific context. It will also give you the opportunity to show off what you have learned about data analysis, visualization, and variance decomposition in this course and from other SDS courses you may have taken. These projects are a major component of the class, and successful completion is required to pass.
+
+# Research Questions {#assignment .unnumbered}
+
+After settling on a research question within your groups, you will begin creating your experimental stimuli and surveys in Qualtrics.
+
+Picking a good research question might be tricky. But start by brain storming things about people that you are interested in. You might start in your groups by going around an describing your MP1's to each other. Same examples as for MP1 here: Perhaps you are interested in how stressful people perceive different situations to be, or their helping behavior given different characteristics of a person in need. You might also assess health behaviors --- for example, making judgement about which exercises to do, or foods to eat, or which situations might lead people to be more or less likely to want to get vaccinated. Starting with something your are curious about with regards to your own behavior is often and interesting place to start. When choosing your research question the most important feature is that you would be able to write short (two or three sentences) vignettes, varying the scenarios, characteristics, features, etc., to answer your question. Although again I will not be grading specifically on creativity for this assignment, because you are working in groups of three, I expect that you'll be able to settle on a research question/topic that is relatively interesting. **You are welcome to expand on a topic that one of you did for MP1**, in fact, I encourage this. A good research program often involves a set of experiments and studies that build on one another. Just make it something **very doable** that can capture your interest for the last few weeks of this course!
+
+# Hypotheses
+
+The topics I list above are meant to get you started, you should pose the question you want to answer as precisely as possible at the outset. Next, identify the factor(s) of interest, the levels of these factors (i.e., treatment conditions), and think about how you will measure your response variable. You should also make hypotheses, *a priori* (before you collect and analyze the data), about the results you expect to see. Remember that each design comes with a *set* of questions that it can answer.
+
+Your hypotheses should include the **direction** of the effects you expect. For example, if one of your factors is nutrition and the levels are unhealthy and healthy presented across different vingettes, then you might hypothesize that people will rate the healthy condition as *more* nutritious than the unhealthy condition.
+
+# General Rules
+
+You may discuss your project with students outside of your groups, but each group will have a different topic, so there is a limit to how much you can help each other. You may consult other sources for information about the non-statistical, substantive issues in your problem, but you should credit these sources in your report. Feel free to consult Randi or the Stats TAs about statistical questions.
+
+# Submission {#submission .unnumbered}
+
+All deliverables must be delivered electronically via Moodle by the due date. Please submit
+
+1.  your exported Qualtrics survey experiment,
+2.  the *cleaned* data generated by your experiment,
+3.  the `.Rmd` file you use to analyze your data,
+4.  a link to your presentation slides (Google slides) or powerpoint file, and
+5.  a video of your 10 to 15 minute presentation (Zoom is easiest. I want your faces to be visible).
+
+Only one person from your group needs to submit. I will know who's in which group and will record your grades accordingly.
+
+# Recorded Oral Presentation
+
+### Content
+
+You should **not** need to present *all* of the R code that you wrote throughout the process of working on this project. Rather, the oral presentation should contain the *minimal* set of R code that is necessary to understand your results and findings in full. If you make a claim, it *must* be justified by explicit calculation. A knowledgeable reviewer should be able to compile your accompanying `.Rmd` file without modification, and verify every statement that you have made. All of the R code necessary to produce your figures and tables *must* appear in the accompanying `.Rmd` file. In short, the oral presentation and accompanying `.Rmd` file should enable a reviewer to reproduce your work in full.
+
+### Tone
+
+This presentation should be recorded for peer reviewers and/or your professor. You should aim for a level of complexity that is more statistically sophisticated than an article in the [Science section of *The New York Times*](http://www.nytimes.com/pages/science/), but less sophisticated than an academic journal. For example, you may use terms that that you will likely never see in the *Times* (e.g. bootstrap), but should not dwell on technical points with no obvious ramifications for the listener (e.g. reporting why the F-distribution is used for ratios of chi-square distributed random variables). Your goal for this paper is to convince a statistically-minded listener (e.g. a student in this class, a student from another school who has taken an introductory statistics class that you have addressed your research question in a meaningful way. Even a listener with no background in statistics should be able to watch your presentation and get the gist of it.
+
+### Format
+
+Your oral presentation should follow this basic format:
+
+1.  Introduction: an overview of your project. In a few sentences, you should explain *clearly* and *precisely* what your research question(s) are and what hypotheses you have about them.
+
+2.  Method: a detailed description of your study design. Describe the factors, each level, if there is crossing, blocks, etc. Here is where you also describe your materials/stimuli. What were your experimental units? How did you measure your responses variable? How did you deliver your manipulation? The method section of a research study is extremely important for others to assess the validity of your findings and to replicate what you found in future studies.
+
+3.  Results: an explanation of what your model tells us about the research question. You will be using ANOVA here, but also present visualization that show the data and test the ANOVA conditions. You should interpret effect sizes and CIs in context and explain their relevance. What does your model tell us that we didn't already know before? You also want to include null results, but be careful about how you interpret them. For example, you may want to say something along the lines of: "we found no evidence that factor $A$ has an effect on response variable $y$." On other hand, you probably shouldn't claim: "there is no effect of factor $A$ on $y$."
+
+4.  Conclusion: a quick summary of your findings and a discussion of their limitations. First, remind the reader of the question that you originally set out to answer, and summarize your findings. Second, discuss the limitations of your model, and what could be done to improve it. You might also want to do the same for your data. This is your last opportunity to clarify the scope of your findings before a journalist misinterprets them and makes wild extrapolations! Protect yourself by being clear about what is *not* implied by your research. Lastly, include thoughts about future directions for you *next* research project in this line of inquiry.
+
+### Additional Thoughts
+
+The oral presentation is *not* simply a dump of all the R code you wrote during this project. Rather, it is a narrative, with technical details, that describes how you addressed your research question. You should *not* present tables or figures without giving an explanation of the information that is supposed to be conveyed by that table or figure. Keep in mind the distinction between *data* and *information*. Data is just numbers, whereas information is the result of analyzing that data and digesting it into meaningful ideas that human beings can understand. Your presentation should allow a reviewer to follow your steps from converting data into information. The presentation should be about 8 to 10 minutes. You will not receive extra credit for simply describing your data *ad infinitum*. For example, simply displaying a table with the means and standard deviations of your variables is not meaningful. Writing a sentence that reiterates the content of the table (e.g. "the mean of variable $x$ was 34.5 and the standard deviation was 2.8...") is equally meaningless. **What you should strive to do is interpret these values in context (e.g. "although variables** $x_1$ and $x_2$ have similar means, the spread of $x_1$ is much larger, suggesting...").
+
+If you do choose to include figures and/or tables, and I think you should, you should present figures and tables in your presentation in context. These items should be understandable on their own, in the sense that they have understandable titles, axis labels, legends, and captions. Someone glancing through your presentation should be able to make sense of your figures and tables without having to read the entire report. That said, you should also include a discussion of what you want the reader to learn from your figures and tables.
