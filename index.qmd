@@ -7,3 +7,6 @@ Welcome to Spring 2023 SDS 290: Research Design and Analysis. You will find most
 Check the course schedule [here](https://docs.google.com/spreadsheets/d/1VIHs_2swDFnkW2ZLJWqQ4sh8SRVGZFgmJg8ukphfIVs/edit?usp=sharing) for assigned readings and major deadlines.
 
 ![](https://imgs.xkcd.com/comics/placebo_blocker.png)
+
+
+Course created by [Scott LaCombe](https://www.smith.edu/academics/faculty/scott-lacombe) based on materials provided by [Randi Garcia](https://www.smith.edu/academics/faculty/randi-garcia).

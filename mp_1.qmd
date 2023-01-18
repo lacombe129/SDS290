@@ -3,221 +3,125 @@ title: "Mini Project 1 Instructions"
 editor: visual
 ---
 
+The learning goals of this first mini project are
 
-The learning goals of this first mini project are 
+1.  Solidify your understanding of what a true experiment is,
+2.  Learn how to use the Qualtrics software to deliver experiments, and
+3.  Gain experience with analyzing the data generated from an experiment.
 
-1. to solidify your understanding of what a true experiment is, 
-2. to learn how to use the Qualtrics software to deliver experiments, and
-3. to gain experience with analyzing the data generated from an experiment. 
+You will conduct an online experimental study using survey methodology. Your experiments will be set up using the Qualtrics survey platform. Your experiments will utilize [vingettes](https://en.wikipedia.org/wiki/Vignette_(psychology)) or very simple visual stimuli presentation.
 
-You will conduct an online experimental study using survey methodology. Your 
-experiments will be set up using the Qualtrics survey platform. Your experiments will 
-utilize [vingettes](https://en.wikipedia.org/wiki/Vignette_(psychology)) or very simple 
-visual stimuli presentation. 
+Your study is required to be experimental, meaning you will manipulate a factor and randomly assign levels of that factor to units (people). For this first mini project you must employ a **randomized one-way design**. Your factor must have at least **three levels**. You will be creating at least three carefully controlled conditions (i.e., three vignettes). These three (or more) conditions will be randomly assigned to people (fellow classmates). They are your "experimental units".
 
-Your study is required to be experimental, meaning you 
-will manipulate a factor and randomly assign levels of that factor to units (people). For this 
-first mini project you must employ a **randomized one-way design**. Your factor must have at least **three levels**. You will be creating at least three carefully controlled conditions (i.e., three 
-vignettes). These three (or more) conditions will be randomly assigned to people (fellow 
-classmates). They are your "experimental units".   
-
-This mini project will require you to design a one-way study, implement that study in Qualtrics, 
-collect and analyze relevant data, and hand in a short
-written report describing your study and its findings. Your project will
-involve fitting an *analysis of variance* (ANOVA) model and checking the ANOVA 
-conditions. ANOVA is the primary statistical technique we are learning in this course. The 
-project is an opportunity to apply and synthesize the material we are learning in
-class to a specific context. It will also give you the opportunity to show off 
-what you have learned about data analysis, visualization, and variance 
-decomposition in this course and from other SDS courses you may have taken. 
-These projects are a major component of the class, and successful completion is required to pass.
+This mini project will require you to design a one-way study, implement that study in Qualtrics, collect and analyze relevant data, and hand in a short written report describing your study and its findings. Your project will involve fitting an *analysis of variance* (ANOVA) model and checking the ANOVA conditions. ANOVA is the primary statistical technique we are learning in this course. The project is an opportunity to apply and synthesize the material we are learning in class to a specific context. It will also give you the opportunity to show off what you have learned about data analysis, visualization, and variance decomposition in this course and from other SDS courses you may have taken. These projects are a major component of the class, and successful completion is required to pass.
 
 # Research Questions {#assignment .unnumbered}
 
-After settling on a research question, you will 
-learn how to use Qualtrics and begin creating your experimental stimuli. **Reading chapter 
-four of the Cobb textbook (PDF on Moodle) could be helpful as you decide on the content 
-of your study.** 
+After settling on a research question, you will learn how to use Qualtrics and begin creating your experimental stimuli. **Reading chapter four of the Cobb textbook (PDF on Moodle) could be helpful as you decide on the content of your study.**
 
-Picking a good research question might be tricky. But start by brain storming things about 
-people that you are interested in. Perhaps you are interested in how stressful people 
-perceive different situations to be, or their helping behavior given different 
-characteristics of a person in need. You might also assess health behaviors --- for example, 
-making judgements about which exercises to do, or foods to eat, or which situations might 
-lead people to be more or less likely to want to get vaccinated. Starting with something 
-you are curious about with regards to your own behavior is often an interesting place to 
-start. When choosing your research question the most important feature is that you would 
-be able to write short (two or three sentences) vignettes, 
-varying the scenarios, characteristics, features, etc., to answer your question. Secondary 
-in importance is how interested you are in the question, and then as a *distant* third would 
-be how important your research question is for society. This is not the time for earth 
-shattering research discoveries. Just make it something **very doable** that you 
-capture your interest for a few weeks. It could even be something that makes you smile...like 
-kittens and puppies. 
+Picking a good research question might be tricky. But start by brain storming things about people that you are interested in. Perhaps you are interested in how stressful people perceive different situations to be, or their helping behavior given different characteristics of a person in need. You might also assess health behaviors --- for example, making judgements about which exercises to do, or foods to eat, or which situations might lead people to be more or less likely to want to get vaccinated. Starting with something you are curious about with regards to your own behavior is often an interesting place to start. When choosing your research question the most important feature is that you would be able to write short (two or three sentences) vignettes, varying the scenarios, characteristics, features, etc., to answer your question. Secondary in importance is how interested you are in the question, and then as a *distant* third would be how important your research question is for society. This is not the time for earth shattering research discoveries. Just make it something **very doable** that you capture your interest for a few weeks. It could even be something that makes you smile...like kittens and puppies.
 
 # Hypotheses
 
-The topics I list above are meant to get you started, you should pose the question 
-you want to answer as precisely as possible at the outset. Next, identify 
-the factor of interest, the levels of this factor (i.e., treatment conditions), 
-and think about how you will measure your response variable. You should also make hypotheses, 
-*a priori* (before you collect and analyze the data), about the results
-you expect to see. Each design comes with a *set* of questions that 
-it can answer. 
+The topics I list above are meant to get you started, you should pose the question you want to answer as precisely as possible at the outset. Next, identify the factor of interest, the levels of this factor (i.e., treatment conditions), and think about how you will measure your response variable. You should also make hypotheses, *a priori* (before you collect and analyze the data), about the results you expect to see. Each design comes with a *set* of questions that it can answer.
 
 # General Rules
 
-You may discuss your project with other students, but each of you will have a different
-topic, so there is a limit to how much you can help each other. You may
-consult other sources for information about the non-statistical,
-substantive issues in your problem, but you should credit these sources
-in your report. I will be showing you how to do citations in R Markdown. Feel free 
-to consult Randi or the Stats TAs about statistical questions.
+You may discuss your project with other students, but each of you will have a different topic, so there is a limit to how much you can help each other. You may consult other sources for information about the non-statistical, substantive issues in your problem, but you should credit these sources in your report. I will be showing you how to do citations in R Markdown. Feel free to consult myself or the Stats TAs about statistical questions.
 
 # Submission {#submission .unnumbered}
 
-All deliverables must be delivered electronically via
-Moodle by the due date. Please submit 
+All deliverables must be delivered electronically via Moodle by the due date. Please submit
 
-1. your exported Qualtrics survey experiment, 
-2. the *cleaned* data generated by your experiment, 
-3. the `.Rmd` file you used to create your report, and
-3. your project technical report as a PDF file.
+1.  your exported Qualtrics survey experiment,
+2.  the *cleaned* data generated by your experiment,
+3.  the `.QMD or .RMD` file you used to create your report, and
+4.  your project technical report as a PDF or html.
 
 # Technical Report
 
 ### Content
 
-You should **not** need to present *all* of the R code that you wrote throughout
-the process of working on this project. Rather, the technical report
-should contain the *minimal* set of R code that is necessary to
-understand your results and findings in full. If you make a claim, it
-*must* be justified by explicit calculation. A knowledgeable reviewer
-should be able to compile your `.Rmd` file without modification, and
-verify every statement that you have made. All of the R code necessary
-to produce your figures and tables *must* appear in the technical
-report. In short, the technical report should enable a reviewer to
-reproduce your work in full.
+You should **not** need to present *all* of the R code that you wrote throughout the process of working on this project. Rather, the technical report should contain the *minimal* set of R code that is necessary to understand your results and findings in full. If you make a claim, it *must* be justified by explicit calculation. A knowledgeable reviewer should be able to compile your `.Rmd` file without modification, and verify every statement that you have made. All of the R code necessary to produce your figures and tables *must* appear in the technical report. In short, the technical report should enable a reviewer to reproduce your work in full.
 
 ### Tone
 
-This document should be written for peer reviewers and/or your collaborating partner. 
-You should aim for a level of complexity that is more statistically sophisticated than an article in
-the [Science section of *The New York Times*](http://www.nytimes.com/pages/science/), 
-but less sophisticated than an academic journal. 
-For example, you may use terms that that you will likely never see in
-the *Times* (e.g. bootstrap), but should not dwell on technical points
-with no obvious ramifications for the reader (e.g. reporting why the 
-F-distribution is used for ratios of chi-square distributed random variables). 
-Your goal for this paper is to convince a statistically-minded reader (e.g. a 
-student in this class, a student from another school who has taken an 
-introductory statistics class that
-you have addressed your research question in a meaningful way.
-Even a reader with no background in statistics should be able to read
-your paper and get the gist of it.
+This document should be written for peer reviewers and/or your collaborating partner. You should aim for a level of complexity that is more statistically sophisticated than an article in the [Science section of *The New York Times*](http://www.nytimes.com/pages/science/), but less sophisticated than an academic journal. For example, you may use terms that that you will likely never see in the *Times* (e.g. bootstrap), but should not dwell on technical points with no obvious ramifications for the reader (e.g. reporting why the F-distribution is used for ratios of chi-square distributed random variables). Your goal for this paper is to convince a statistically-minded reader (e.g. a student in this class, a student from another school who has taken an introductory statistics class that you have addressed your research question in a meaningful way. Even a reader with no background in statistics should be able to read your paper and get the gist of it.
 
 ### Format
 
 Your technical report should follow this basic format:
 
-1.  **Introduction**: an overview of your project. In a paragraph or two, you
-    should explain *clearly* and *precisely* what your research question(s)
-    are and what hypotheses you have about them.
+1.  **Introduction**: an overview of your project. In a paragraph or two, you should explain *clearly* and *precisely* what your research question(s) are and what hypotheses you have about them.
 
-3.  **Method**: a detailed description of your study design. Describe 
-    the factor, each level, if there is crossing, blocks, etc. Here is where
-    you also describe your materials/stimuli. What were your experimental 
-    units? How did you measure your responses variable? How did you deliver 
-    your manipulation? The method section of a research study is extremely important for 
-    others to assess the validity of your findings and to replicate what you
-    found in future studies. 
+2.  **Method**: a detailed description of your study design. Describe the factor, each level, if there is crossing, blocks, etc. Here is where you also describe your materials/stimuli. What were your experimental units? How did you measure your responses variable? How did you deliver your manipulation? The method section of a research study is extremely important for others to assess the validity of your findings and to replicate what you found in future studies.
 
-4.  **Results**: an explanation of what your model tells us about the
-    research question. You will be using ANOVA here, but also present 
-    visualizations that show the data and test the ANOVA conditions. 
-    You should interpret effect sizes and CIs in context and explain their 
-    relevance. You should also do any corrections for multiple comparisons. What 
-    does your model tell us that we didn't already know before? 
-    You also want to include null results, but be careful about how you interpret 
-    them. For example, you may want to say something along the lines of: "we 
-    found no evidence that factor $A$ has an effect on response variable $y$." 
-    On other hand, you probably shouldn't claim: "there is no effect of 
-    factor $A$ on $y$."
+3.  **Results**: an explanation of what your model tells us about the research question. You will be using ANOVA here, but also present visualizations that show the data and test the ANOVA conditions. You should interpret effect sizes and CIs in context and explain their relevance. You should also do any corrections for multiple comparisons. What does your model tell us that we didn't already know before? You also want to include null results, but be careful about how you interpret them. For example, you may want to say something along the lines of: "we found no evidence that factor $A$ has an effect on response variable $y$." On other hand, you probably shouldn't claim: "there is no effect of factor $A$ on $y$."
 
-5.  **Conclusion**: a quick summary of your findings and a discussion of their
-    limitations. First, remind the reader of the question that you
-    originally set out to answer, and summarize your findings. Second,
-    discuss the limitations of your model, and what could be done to
-    improve it. You might also want to do the same for your data. This
-    is your last opportunity to clarify the scope of your findings
-    before a journalist misinterprets them and makes wild
-    extrapolations! Protect yourself by being clear about what is *not*
-    implied by your research.
+4.  **Conclusion**: a quick summary of your findings and a discussion of their limitations. First, remind the reader of the question that you originally set out to answer, and summarize your findings. Second, discuss the limitations of your model, and what could be done to improve it. You might also want to do the same for your data. This is your last opportunity to clarify the scope of your findings before a journalist misinterprets them and makes wild extrapolations! Protect yourself by being clear about what is *not* implied by your research.
 
 ### Additional Thoughts
 
-The technical report is *not* simply a dump of all the R code you wrote
-during this project. Rather, it is a narrative, with technical details,
-that describes how you addressed your research question. You should
-*not* present tables or figures without a written explanation of the
-information that is supposed to be conveyed by that table or figure.
-Keep in mind the distinction between *data* and *information*. Data is
-just numbers, whereas information is the result of analyzing that data
-and digesting it into meaningful ideas that human beings can understand.
-Your technical report should allow a reviewer to follow your steps from
-converting data into information. There is no limit to the length of the
-technical report, but it should not be longer than it needs to be. You
-will not receive extra credit for simply describing your data *ad infinitum*. 
-For example, simply displaying a table with the means and
-standard deviations of your variables is not meaningful. Writing a
-sentence that reiterates the content of the table (e.g. "the mean of
-variable $x$ was 34.5 and the standard deviation was 2.8...") is equally
-meaningless. What you should strive to do is interpret these values in
-context (e.g. "although variables $x_1$ and $x_2$ have similar means,
-the spread of $x_1$ is much larger, suggesting...").
+The technical report is *not* simply a dump of all the R code you wrote during this project. Rather, it is a narrative, with technical details, that describes how you addressed your research question. You should *not* present tables or figures without a written explanation of the information that is supposed to be conveyed by that table or figure. Keep in mind the distinction between *data* and *information*. Data is just numbers, whereas information is the result of analyzing that data and digesting it into meaningful ideas that human beings can understand. Your technical report should allow a reviewer to follow your steps from converting data into information. There is no limit to the length of the technical report, but it should not be longer than it needs to be. You will not receive extra credit for simply describing your data *ad infinitum*. For example, simply displaying a table with the means and standard deviations of your variables is not meaningful. Writing a sentence that reiterates the content of the table (e.g. "the mean of variable $x$ was 34.5 and the standard deviation was 2.8...") is equally meaningless. What you should strive to do is interpret these values in context (e.g. "although variables $x_1$ and $x_2$ have similar means, the spread of $x_1$ is much larger, suggesting...").
 
-You should present figures and tables in your technical report in
-context. These items should be understandable on their own, in the
-sense that they have understandable titles, axis labels, legends, and
-captions. Someone glancing through your technical report should be able
-to make sense of your figures and tables without having to read the
-entire report. That said, you should also include a discussion of what
-you want the reader to learn from your figures and tables.
-
+You should present figures and tables in your technical report in context. These items should be understandable on their own, in the sense that they have understandable titles, axis labels, legends, and captions. Someone glancing through your technical report should be able to make sense of your figures and tables without having to read the entire report. That said, you should also include a discussion of what you want the reader to learn from your figures and tables.
 
 <!-- ## Assessment Criteria -->
 
 <!-- Your project will be evaluated based on the following criteria: -->
 
 <!-- -   General: Is the research question/factors chosen interesting, and substantial,  -->
+
 <!--     or is it trite, pedantic, and trivial? How much creativity, initiative, -->
+
 <!--     and ambition did the group demonstrate? Is the basic question -->
+
 <!--     driving the project worth investigating, or is it obviously -->
+
 <!--     answerable without a data-based study? -->
 
 <!-- -   Design: Are the variables chosen appropriately and defined clearly, -->
+
 <!--     and is it clear how they were measured/observed? Can the effects of -->
+
 <!--     nuisance factors be measured for? Is there sufficient data to -->
+
 <!--     make meaningful conclusions? -->
 
 <!-- -   Analysis: Are the chosen analyses appropriate for the -->
+
 <!--     variables/relationships under investigation, and are the assumptions -->
+
 <!--     underlying these analyses met? Do the analyses involve fitting and -->
+
 <!--     interpreting an ANOVA model? Are the analyses carried -->
+
 <!--     out correctly? Is there an effective mix of graphical, numerical, -->
+
 <!--     and inferential analyses? Did the group make appropriate conclusions -->
+
 <!--     from the analyses, and are these conclusions justified? -->
 
 <!-- -   Technical Report: How effectively does the written report -->
+
 <!--     communicate the goals, procedures, and results of the study? Are the -->
+
 <!--     claims adequately supported? How well is the report structured and -->
+
 <!--     organized? Does the writing style enhance what the group is trying -->
+
 <!--     to communicate? How well is the report edited? Are the statistical -->
+
 <!--     claims justified? Are text and analyses effectively interwoven in -->
+
 <!--     the technical report? Clear writing, correct spelling, and good -->
+
 <!--     grammar are important. -->
 
 <!-- -   Poster Presentation: How effectively does the poster presentation -->
+
 <!--     communicate the goals, procedures, and results of the study? Do the  -->
+
 <!--     presenters seem to be well-rehearsed? Does she appear -->
+
 <!--     to be confident in what she is saying? Are her arguments persuasive? -->
