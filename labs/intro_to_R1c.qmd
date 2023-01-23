@@ -1,0 +1,6 @@
+---
+title: "Homework 1c- Intro to R"
+editor: visual
+---
+
+# Introduction to R and R Studio
