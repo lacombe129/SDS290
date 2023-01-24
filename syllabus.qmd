@@ -29,14 +29,14 @@ One major objective of this course is to give you practice with all four of thes
 5.  Carry out, document, and explain a randomization plan for a survey or an experiment.
 6.  Analyze data using R statistical software:
 
-**Prerequisite**: An introductory statistics such as SDS 220/201, ECO 220, PSY 201, or equivalent. If you have not taken an SDS course before, you also need to enroll in the 1-credit hour SDS 100 lab to learn the fundamentals of R.
+**Prerequisite**: An intro statistics such as SDS 220/201, ECO 220, PSY 201, or equivalent. If you have not taken an SDS course before, you also need to enroll in the 1-credit hour SDS 100 lab to learn the fundamentals of R.
 
 #### Readings
 
 -   *STAT2: Modeling with Regression and ANOVA*, Second Edition by Ann R. Cannon, George W. Cobb, and Bradley A. Hartlaub. ISBN-13: 978-1319054076.\
 -   \[PDFs provided on moodle\] *Introduction to Design and Analysis of Experiments*, by George Cobb. Hardcover edition published by John Wiley & Sons, 1998, ISBN: 978-0-470-41216-9.
 
-The first few chapters of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class---time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.
+Selected of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class---time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.
 
 #### Class Structure
 
@@ -74,7 +74,7 @@ If you have special needs concerning quiz taking, please bring documentation of 
 
 ## Assignments {#assignments .unnumbered}
 
-1.  **Homework** \[40%\]: Weekly homework will be due on **Fridays by 11:59p** on Moodle. Late homework will NOT be accepted unless you reach out to be **before** the deadline. Homework will be a combination of problems sets from the book and statistical computation exercises in R. I recommend that you form study groups of 3 or 4 students from the class, and get together outside of class to discuss the homework. Each of you should try the exercises on your own and then get together to discuss your work. This process helps you to develop your own way of thinking about statistics questions before hearing how others think. **I will be dropping the lowest homework grade at the end of the term.**
+1.  **Homework** \[40%\]: Weekly homework will be due on **Fridays by 11:59p** on Moodle. Late homework will NOT be accepted unless you reach out to be **before** the deadline. Homework will be a combination of problems sets from the book and statistical computation exercises in R. **I will be dropping the lowest homework grade at the end of the term.**
 
 2.  **Participation** \[10%\]: Active participation in class and regular attendance will comprise 10% of your grade. Most class periods will begin with questions from the reading for that day. Participating in the discussion about the readings is a great way to demonstrate engagement. Reading before class will help us move more quickly through content, and focus on the materials you found the most challenging. I will be tracking attendance through a sign up sheet each day, but there is no formal penalty for missed attendance. Attendance will help inform participation grades. As a reminder, participation includes in class work, but also posting on slack, coming to office hours, etc. There are many ways to fully participate in the course.
 
