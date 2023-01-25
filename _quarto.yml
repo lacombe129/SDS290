@@ -17,7 +17,22 @@ website:
         text: Mini Project 2
       - href: homework.qmd
         text: Homework
-
+      - text: Trouble shooting links
+        menu:
+        - href: https://smithcollege-sds.github.io/sds100/lab_01_setup.html
+          text: Downloading R and RStudio
+        - text: Basics of Data Wranging in R
+          href: https://smithcollege-sds.github.io/sds100/lab_04_wrangling.html
+        - text: Troubleshooting R Markdown
+          href: https://smithcollege-sds.github.io/sds-www/rmarkdown_problems.html
+        - text: Qualtrics
+          href: https://smithcollege.qualtrics.com/
+      - text: Slides
+        menu:
+        - text: Notes
+        - text: 01 - Welcome and What is a Model
+          href: lectures/welcome.pdf
+        
 format:
   html:
     theme: cosmo
