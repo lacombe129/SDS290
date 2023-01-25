@@ -86,6 +86,37 @@ ul.task-list{list-style: none;}
   <li class="nav-item">
     <a class="nav-link" href="./homework.html">Homework</a>
   </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-trouble-shooting-links" role="button" data-bs-toggle="dropdown" aria-expanded="false">Trouble shooting links</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-trouble-shooting-links">    
+        <li>
+    <a class="dropdown-item" href="https://smithcollege-sds.github.io/sds100/lab_01_setup.html">
+ <span class="dropdown-text">Downloading R and RStudio</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://smithcollege-sds.github.io/sds100/lab_04_wrangling.html">
+ <span class="dropdown-text">Basics of Data Wranging in R</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://smithcollege-sds.github.io/sds-www/rmarkdown_problems.html">
+ <span class="dropdown-text">Troubleshooting R Markdown</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="https://smithcollege.qualtrics.com/">
+ <span class="dropdown-text">Qualtrics</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false">Slides</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-slides">    
+        <li class="dropdown-header">Notes</li>
+        <li>
+    <a class="dropdown-item" href="https://smithcollege.qualtrics.com/">
+ <span class="dropdown-text">01 - Welcome and What is a Model</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -153,7 +184,7 @@ ul.task-list{list-style: none;}
 <li>Carry out, document, and explain a randomization plan for a survey or an experiment.</li>
 <li>Analyze data using R statistical software:</li>
 </ol>
-<p><strong>Prerequisite</strong>: An introductory statistics such as SDS 220/201, ECO 220, PSY 201, or equivalent. If you have not taken an SDS course before, you also need to enroll in the 1-credit hour SDS 100 lab to learn the fundamentals of R.</p>
+<p><strong>Prerequisite</strong>: An intro statistics such as SDS 220/201, ECO 220, PSY 201, or equivalent. If you have not taken an SDS course before, you also need to enroll in the 1-credit hour SDS 100 lab to learn the fundamentals of R.</p>
 </section>
 <section id="readings" class="level4">
 <h4 class="anchored" data-anchor-id="readings">Readings</h4>
@@ -162,7 +193,7 @@ ul.task-list{list-style: none;}
 </li>
 <li>[PDFs provided on moodle] <em>Introduction to Design and Analysis of Experiments</em>, by George Cobb. Hardcover edition published by John Wiley &amp; Sons, 1998, ISBN: 978-0-470-41216-9.</li>
 </ul>
-<p>The first few chapters of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class—time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.</p>
+<p>Selected of the Cobb book are provided as PDFs on our course Moodle page. We will mostly be using the Stat2 book but will supplement with the Cobb book. It is very important that you read the textbook before every class—time in class will be devoted to jumping right into using the ideas presented in the text. The textbook is full of great examples of real statistical studies.</p>
 </section>
 <section id="class-structure" class="level4">
 <h4 class="anchored" data-anchor-id="class-structure">Class Structure</h4>
@@ -201,7 +232,7 @@ ul.task-list{list-style: none;}
 <section id="assignments" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="assignments">Assignments</h2>
 <ol type="1">
-<li><p><strong>Homework</strong> [40%]: Weekly homework will be due on <strong>Fridays by 11:59p</strong> on Moodle. Late homework will NOT be accepted unless you reach out to be <strong>before</strong> the deadline. Homework will be a combination of problems sets from the book and statistical computation exercises in R. I recommend that you form study groups of 3 or 4 students from the class, and get together outside of class to discuss the homework. Each of you should try the exercises on your own and then get together to discuss your work. This process helps you to develop your own way of thinking about statistics questions before hearing how others think. <strong>I will be dropping the lowest homework grade at the end of the term.</strong></p></li>
+<li><p><strong>Homework</strong> [40%]: Weekly homework will be due on <strong>Fridays by 11:59p</strong> on Moodle. Late homework will NOT be accepted unless you reach out to be <strong>before</strong> the deadline. Homework will be a combination of problems sets from the book and statistical computation exercises in R. <strong>I will be dropping the lowest homework grade at the end of the term.</strong></p></li>
 <li><p><strong>Participation</strong> [10%]: Active participation in class and regular attendance will comprise 10% of your grade. Most class periods will begin with questions from the reading for that day. Participating in the discussion about the readings is a great way to demonstrate engagement. Reading before class will help us move more quickly through content, and focus on the materials you found the most challenging. I will be tracking attendance through a sign up sheet each day, but there is no formal penalty for missed attendance. Attendance will help inform participation grades. As a reminder, participation includes in class work, but also posting on slack, coming to office hours, etc. There are many ways to fully participate in the course.</p></li>
 <li><p><strong>Exams</strong> [20%]: There will be two exams throughout the term. See the schedule for tentative dates of these exams. They will usually be distributed on a Tuesday and due that Friday. You will have time in class to work on the exams, and they are designed to take roughly 60-75 minutes to complete.</p></li>
 <li><p><strong>Mini Projects and Presentations</strong> [30% - 10% MP1 + 20% MP2]: There will two mini projects during the semester. The first mini project (MP1) will be completed individually and the second mini project (MP2) will be completed in groups of three. For these projects, you and your group will be posing your own research questions and designing an experiment. The specific content of your mini projects will vary, but all projects will consist of designing an experiment (or appropriate observational study), collecting and analyzing data, and writing a technical report on your study. For MP2 each group of three students will complete an experiment together. During the last week of class, you (and your group) will create short presentation of your study and present it to the class. We’ll talk more about the project as the term proceeds and detailed instructions for the projects will be posted on the course website.</p></li>
