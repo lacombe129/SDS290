@@ -27,11 +27,7 @@ website:
           href: https://smithcollege-sds.github.io/sds-www/rmarkdown_problems.html
         - text: Qualtrics
           href: https://smithcollege.qualtrics.com/
-      - text: Slides
-        menu:
-        - text: Notes
-        - text: 01 - Welcome and What is a Model
-          href: lectures/welcome.pdf
+
         
 format:
   html:
