@@ -27,7 +27,10 @@ website:
           href: https://smithcollege-sds.github.io/sds-www/rmarkdown_problems.html
         - text: Qualtrics
           href: https://smithcollege.qualtrics.com/
-
+      - text: Lecture Slides
+        menu:
+        - href: lectures/welcome.pptx
+          text: Intro Slides
         
 format:
   html:
