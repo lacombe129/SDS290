@@ -33,6 +33,10 @@ website:
         menu:
         - href: lectures/welcome.pptx
           text: Intro Slides
+        - href: lectures/Week2_anova.pptx
+          text: Intro to Anova
+      - href: sample_code.qmd
+        text: Sample R Code
         
 format:
   html:
