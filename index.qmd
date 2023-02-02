@@ -8,5 +8,4 @@ Check the course schedule [here](https://docs.google.com/spreadsheets/d/1VIHs_2s
 
 ![](https://imgs.xkcd.com/comics/human_subjects.png)
 
-
 Course created by [Scott LaCombe](https://www.smith.edu/academics/faculty/scott-lacombe) based on materials provided by [Randi Garcia](https://www.smith.edu/academics/faculty/randi-garcia).

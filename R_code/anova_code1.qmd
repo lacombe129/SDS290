@@ -7,7 +7,7 @@ editor: visual
 
 We first want to load the required packages and data. We will be using sample datasets from the textbook.
 
-```{r}
+```{r, warning=F, message=F}
 library(Stat2Data)
 library(tidyverse)
 

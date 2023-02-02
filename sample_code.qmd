@@ -1,10 +1,11 @@
 ---
 title: "Sample R Code"
 editor: visual
+code_download: true
 ---
 
 The following links will take you to download R code used for class.
 
 # Week 2 Anova
 
-Download the [Week 2 Anova Code](R_code/anova_code1.qmd){download="anove_code1.qmd"}
+1.  <i class="bi bi-download"></i> Download [anova_code1.qmd](R_code/_anova_code1.qmd){download="anova_code1.qmd"}
