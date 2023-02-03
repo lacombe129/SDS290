@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "SDS290"
@@ -33,12 +32,12 @@ website:
         menu:
         - href: lectures/welcome.pptx
           text: Intro Slides
-        - href: lectures/Week2_anova.pptx
-          text: Intro to Anova
-      - text: R Codes
-        menu:
-        - href: R_code/anova_code1.qmd
-          text: Anova 1
+        - href: https://docs.google.com/presentation/d/1VTK8NSOe8LNvLdNWxIxqalFhHsyXeDjUsibJvS0T_Bw/edit?usp=sharing
+          text: Week 2 Anova
+      - text: Sample Code
+        href: sample_code.qmd
+  
+
         
 format:
   html:
