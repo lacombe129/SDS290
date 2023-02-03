@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>SDS290 - Sample R Code</title>
+<title>SDS290 - Homework 1c- Intro to R</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,22 +17,22 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 </style>
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link id="quarto-text-highlighting-styles" href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link id="quarto-text-highlighting-styles" href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -54,7 +54,7 @@ ul.task-list{list-style: none;}
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -63,7 +63,7 @@ ul.task-list{list-style: none;}
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">SDS290</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -72,26 +72,26 @@ ul.task-list{list-style: none;}
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="../index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html">Syllabus</a>
+    <a class="nav-link" href="../syllabus.html">Syllabus</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-mini-projects" role="button" data-bs-toggle="dropdown" aria-expanded="false">Mini Projects</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-mini-projects">    
         <li>
-    <a class="dropdown-item" href="./mp_1.html">
+    <a class="dropdown-item" href="../mp_1.html">
  <span class="dropdown-text">Mini Project 1</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./mp_2.html">
+    <a class="dropdown-item" href="../mp_2.html">
  <span class="dropdown-text">Mini Project 2</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./homework.html">Homework</a>
+    <a class="nav-link" href="../homework.html">Homework</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-trouble-shooting-links" role="button" data-bs-toggle="dropdown" aria-expanded="false">Trouble shooting links</a>
@@ -118,24 +118,18 @@ ul.task-list{list-style: none;}
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-lecture-slides" role="button" data-bs-toggle="dropdown" aria-expanded="false">Lecture Slides</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-lecture-slides">    
         <li>
-    <a class="dropdown-item" href="./lectures/welcome.pptx">
+    <a class="dropdown-item" href="../lectures/welcome.pptx">
  <span class="dropdown-text">Intro Slides</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./lectures/Week2_anova.pptx">
- <span class="dropdown-text">Intro to Anova</span></a>
+    <a class="dropdown-item" href="../lectures/Week2_anova.pptx">
+ <span class="dropdown-text">Week 2 Anova</span></a>
   </li>  
     </ul>
   </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-r-codes" role="button" data-bs-toggle="dropdown" aria-expanded="false">R Codes</a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-r-codes">    
-        <li>
-    <a class="dropdown-item" href="./R_code/anova_code1.html">
- <span class="dropdown-text">Anova 1</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../R_code/sample_code.qmd">Sample Code</a>
   </li>  
-    </ul>
-  </li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -151,7 +145,7 @@ ul.task-list{list-style: none;}
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#week-2-anova" id="toc-week-2-anova" class="nav-link active" data-scroll-target="#week-2-anova">Week 2 Anova</a></li>
+  <li><a href="#introduction-to-r-and-r-studio" id="toc-introduction-to-r-and-r-studio" class="nav-link active" data-scroll-target="#introduction-to-r-and-r-studio">Introduction to R and R Studio</a></li>
   </ul>
 </nav>
     </div>
@@ -160,7 +154,7 @@ ul.task-list{list-style: none;}
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Sample R Code</h1>
+<h1 class="title">Homework 1c- Intro to R</h1>
 </div>
 
 
@@ -174,12 +168,8 @@ ul.task-list{list-style: none;}
 
 </header>
 
-<p>The following links will take you to download R code used for class.</p>
-<section id="week-2-anova" class="level1">
-<h1>Week 2 Anova</h1>
-<ol type="1">
-<li><i class="bi bi-download"></i> Download <a href="R_code/_anova_code1.qmd" download="anova_code1.qmd">anova_code1.qmd</a></li>
-</ol>
+<section id="introduction-to-r-and-r-studio" class="level1">
+<h1>Introduction to R and R Studio</h1>
 
 
 </section>
