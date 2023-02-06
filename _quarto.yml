@@ -35,6 +35,8 @@ website:
           text: Intro Slides
         - href: https://docs.google.com/presentation/d/1VTK8NSOe8LNvLdNWxIxqalFhHsyXeDjUsibJvS0T_Bw/edit?usp=sharing
           text: Week 2 Anova
+        - href: https://docs.google.com/presentation/d/18F-4kaERjzFcEn8gkLgQoAp42q2ItlIo/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 3 Anova 
       - text: Sample Code
         href: sample_code.qmd
   
