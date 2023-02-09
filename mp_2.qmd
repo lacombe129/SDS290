@@ -44,7 +44,7 @@ All deliverables must be delivered electronically via Moodle by the due date. Pl
 
 Only one person from your group needs to submit. I will know who's in which group and will record your grades accordingly.
 
-# Recorded Oral Presentation
+# Oral Presentation
 
 ### Content
 
@@ -52,7 +52,7 @@ You should **not** need to present *all* of the R code that you wrote throughout
 
 ### Tone
 
-This presentation should be recorded for peer reviewers and/or your professor. You should aim for a level of complexity that is more statistically sophisticated than an article in the [Science section of *The New York Times*](http://www.nytimes.com/pages/science/), but less sophisticated than an academic journal. For example, you may use terms that that you will likely never see in the *Times* (e.g. bootstrap), but should not dwell on technical points with no obvious ramifications for the listener (e.g. reporting why the F-distribution is used for ratios of chi-square distributed random variables). Your goal for this paper is to convince a statistically-minded listener (e.g. a student in this class, a student from another school who has taken an introductory statistics class that you have addressed your research question in a meaningful way. Even a listener with no background in statistics should be able to watch your presentation and get the gist of it.
+This presentation will be given to the class during the final week of the semester. You should aim for a level of complexity that is more statistically sophisticated than an article in the [Science section of *The New York Times*](http://www.nytimes.com/pages/science/), but less sophisticated than an academic journal. For example, you may use terms that that you will likely never see in the *Times* (e.g. bootstrap), but should not dwell on technical points with no obvious ramifications for the listener (e.g. reporting why the F-distribution is used for ratios of chi-square distributed random variables). Your goal for this paper is to convince a statistically-minded listener (e.g. a student in this class, a student from another school who has taken an introductory statistics class that you have addressed your research question in a meaningful way. Even a listener with no background in statistics should be able to watch your presentation and get the gist of it.
 
 ### Format
 
