@@ -4,7 +4,7 @@ title: "SDS 290- Research Design and Analysis"
 
 Welcome to Spring 2023 SDS 290: Research Design and Analysis. You will find most of the course content here, but also keep an eye on [Moodle](http://moodle.smith.edu) for grades and assignments. Use the server version of `RStudio` on the [web here](http://rstudio.smith.edu), although I recommend you install R on your computer ([instructions](https://smithcollege-sds.github.io/sds100/lab_01_setup.html)).
 
-Check the course schedule [here](https://docs.google.com/spreadsheets/d/1VIHs_2swDFnkW2ZLJWqQ4sh8SRVGZFgmJg8ukphfIVs/edit?usp=sharing) for assigned readings and major deadlines for the course. Click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVsekFOdmJUYzVyfGRlZmF1bHR8MGY0NWUyMWJlMTk3M2ExMzc4YTdmMzM1NGI0MDY5Zjc) to sign up for an office hour slot, or stop in without an appointment from 4:15-5:15 on Thursdays in Wright 201. 
+Check the course schedule [here](https://docs.google.com/spreadsheets/d/1VIHs_2swDFnkW2ZLJWqQ4sh8SRVGZFgmJg8ukphfIVs/edit?usp=sharing) for assigned readings and major deadlines for the course. Click [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUVsekFOdmJUYzVyfGRlZmF1bHR8MGY0NWUyMWJlMTk3M2ExMzc4YTdmMzM1NGI0MDY5Zjc) to sign up for an office hour slot, or stop in without an appointment from 4:15-5:15 on Thursdays in Wright 201.
 
 ![](https://imgs.xkcd.com/comics/human_subjects.png)
 
