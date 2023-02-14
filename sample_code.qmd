@@ -15,3 +15,8 @@ The following links will take you to R code used for class.
 # Week 4- Anova Part 3
 
 1.  <i class="bi bi-download"></i> Download [anova_code3.qmd](https://drive.google.com/file/d/19GMhSWHi9HIwepjtuMExUeEWMsNe7fo7/view?usp=share_link)
+2.  <i class="bi bi-download"></i> Download [Box Data](https://drive.google.com/file/d/19HBbv-nZNPG4VAb3C0EOs2XtQWcqK94z/view?usp=share_link). Note this must be in the same file folder as the QMD file for the QMD file to successfully run. 
+
+
+
+
