@@ -39,6 +39,8 @@ website:
           text: Week 3 Anova 
         - href: https://docs.google.com/presentation/d/192UZsHdQ98lzpaQq7Pc8KR0V13kJHtBc/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Mini Project 1 Overview
+        - href: https://docs.google.com/presentation/d/19DS63YGdewwpJ4dfG9KnXxX0b-FwePLk/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 4 Anova
       - text: Sample Code
         href: sample_code.qmd
   
