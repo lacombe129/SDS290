@@ -1,15 +1,17 @@
 ---
 title: "Sample R Code"
-
 ---
 
-The following links will take you to R code used for class. 
+The following links will take you to R code used for class.
 
 # Week 2 Anova
 
 1.  <i class="bi bi-download"></i> Download [anova_code1.qmd](https://drive.google.com/file/d/187rYY375SYVeVrb5Thfux5N514oomhDP/view?usp=share_link)
 
-
 # Week 3- Anova Part 2
 
 1.  <i class="bi bi-download"></i> Download [anova_code2.qmd](https://drive.google.com/file/d/18HCjs1cbOdOHfdEhbgk7X4U4-Jxf-Vb8/view?usp=share_link)
+
+# Week 4- Anova Part 3
+
+1.  <i class="bi bi-download"></i> Download [anova_code3.qmd](https://drive.google.com/file/d/19GMhSWHi9HIwepjtuMExUeEWMsNe7fo7/view?usp=share_link)
