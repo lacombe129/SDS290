@@ -2,7 +2,7 @@
 title: "Sample R Code"
 ---
 
-The following links will take you to R code used for class.
+The following links will take you to R code and data used for class.
 
 # Week 2 Anova
 
