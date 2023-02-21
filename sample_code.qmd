@@ -8,3 +8,17 @@ The following links will take you to R code used for class.
 # Week 2 Anova
 
 1.  <i class="bi bi-download"></i> Download [anova_code1.qmd](https://drive.google.com/file/d/187rYY375SYVeVrb5Thfux5N514oomhDP/view?usp=share_link)
+
+# Week 3- Anova Part 2
+
+1.  <i class="bi bi-download"></i> Download [anova_code2.qmd](https://drive.google.com/file/d/18HCjs1cbOdOHfdEhbgk7X4U4-Jxf-Vb8/view?usp=share_link)
+
+# Week 4- Anova Part 3
+
+1.  <i class="bi bi-download"></i> Download [anova_code3.qmd](https://drive.google.com/file/d/19GMhSWHi9HIwepjtuMExUeEWMsNe7fo7/view?usp=share_link)
+2.  <i class="bi bi-download"></i> Download [Box Data](https://drive.google.com/file/d/19HBbv-nZNPG4VAb3C0EOs2XtQWcqK94z/view?usp=share_link). Note this must be in the same file folder as the QMD file for the QMD file to successfully run.
+
+
+# Week 5- Sample code and Qualtrics data
+
+1.  <i class="bi bi-download"></i> Download [zip file with code and data](https://drive.google.com/file/d/1AlOwSQe_hDLFDEfCiGq1vb3Mwgkumco9/view?usp=share_link)
