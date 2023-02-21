@@ -20,4 +20,4 @@ The following links will take you to R code used for class.
 
 # Week 5- Sample code and Qualtrics data
 
-1.  <i class="bi bi-download"></i> Download [zip file with code and data](https://drive.google.com/drive/folders/1AOJ47JLEugLAt9jL7VrfJHAHorAhvKIt?usp=share_link)
+1.  <i class="bi bi-download"></i> Download [zip file with code and data](https://drive.google.com/file/d/1AlOwSQe_hDLFDEfCiGq1vb3Mwgkumco9/view?usp=share_link)
