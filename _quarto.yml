@@ -41,6 +41,8 @@ website:
           text: Mini Project 1 Overview
         - href: https://docs.google.com/presentation/d/19DS63YGdewwpJ4dfG9KnXxX0b-FwePLk/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 4 Anova
+        - href: https://docs.google.com/presentation/d/1AILjruu0m3gjvjVjLcpBn2NwNBhj3rNg/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 5 Experimental Design
       - text: Sample Code
         href: sample_code.qmd
   
