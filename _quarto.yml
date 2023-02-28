@@ -43,6 +43,8 @@ website:
           text: Week 4 Anova
         - href: https://docs.google.com/presentation/d/1AILjruu0m3gjvjVjLcpBn2NwNBhj3rNg/edit?usp=sharing&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 5 Experimental Design
+        - href: https://docs.google.com/presentation/d/1Bv9A9_tNmB2crI2ygWVn6rAP7j6udZqD/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 6 Two Way Anova
       - text: Sample Code
         href: sample_code.qmd
   
