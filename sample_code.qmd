@@ -23,3 +23,8 @@ The following links will take you to R code and data used for class.
 1.  <i class="bi bi-download"></i> Download [zip file](https://drive.google.com/file/d/1AlOwSQe_hDLFDEfCiGq1vb3Mwgkumco9/view?usp=share_link)
  
 2. <i class="bi bi-download"></i> Download [sample code to help with homework](https://drive.google.com/file/d/1BAfhoPOF2sA2MXD51PyvGT_mOq-YmGom/view?usp=share_link)
+
+
+# Week 6- Sample code
+
+1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1Bvw26uh9VfHHODmNO67L7dnbrs6S2x4j/view?usp=share_link)
