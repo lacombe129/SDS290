@@ -74,31 +74,14 @@ Your project will be evaluated based on the following criteria:
 
 -   Design: Are the variables chosen appropriately and defined clearly, and is it clear how they were measured/observed? Can the effects of nuisance factors be measured for? Is there sufficient data to make meaningful conclusions?
 
--   Analysis: Are the chosen analyses appropriate for the
-    variables/relationships under investigation, and are the assumptions
-    underlying these analyses met? Do the analyses involve fitting and
-    interpreting an ANOVA model? Are the analyses carried
-    out correctly? Did the individual make appropriate conclusions
-    from the analyses, and are these conclusions justified?
+-   Analysis: Are the chosen analyses appropriate for the variables/relationships under investigation, and are the assumptions underlying these analyses met? Do the analyses involve fitting and interpreting an ANOVA model? Are the analyses carried out correctly? Did the individual make appropriate conclusions from the analyses, and are these conclusions justified?
 
--   Technical Report: How effectively does the written report
-    communicate the goals, procedures, and results of the study? Are the
-    claims adequately supported? How well is the report structured and
-    organized? Does the writing style enhance what the group is trying
-    to communicate? How well is the report edited? Are the statistical
-    claims justified? Are text and analyses effectively interwoven in
-    the technical report? Clear writing, correct spelling, and good
-    grammar are important.
+-   Technical Report: How effectively does the written report communicate the goals, procedures, and results of the study? Are the claims adequately supported? How well is the report structured and organized? Does the writing style enhance what the group is trying to communicate? How well is the report edited? Are the statistical claims justified? Are text and analyses effectively interwoven in the technical report? Clear writing, correct spelling, and good grammar are important.
 
+## Timeline
 
+-   **Research question and intro- Feb 24th**: This submission should include the beginnings of your research project, be roughly 1-2 paragraphs, and include a clear description of your research question, overview of your experimental design, and clear hypothesis/hypotheses. Only one hypothesis is required for this mini-project, but you are welcome to do more.
 
-## Timeline 
+-   **Survey submission due Friday, March 3rd**: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.
 
-
-- **Research question and intro- Feb 24th**: This submission should include the beginnings of your research project, be roughly 1-2 paragraphs, and include a clear description of your research question, overview of your experimental design, and clear hypothesis/hypotheses. Only one hypothesis is required for this mini-project, but you are welcome to do more.
-
-
-- **Survey submission due Friday, March 3rd**: For this submission, you will link to a preview of your full survey for me to review before you distribute it. Do not randomize the treatment for me so that I can review all levels of your design.
-
-- **Final Submission due Friday, March 24th**: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project. 
-
+-   **Final Submission due Friday, March 31st**: Upload a qmd file, rendered pdf, and whatever data is needed to render your complete project.
