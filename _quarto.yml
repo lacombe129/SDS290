@@ -49,6 +49,8 @@ website:
           text: Week 7 Study day and exam
         - href: https://docs.google.com/presentation/d/1EJIL-Ou6eA1rJ9mie5KpgL8WhwpScyU4/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 8 Interactions
+        - href: https://docs.google.com/presentation/d/1Gb-K3iXYxxd6AVBG6x8Vo5kJ98mUsKPe/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 9 Interactions Part 2
       - text: Sample Code
         href: sample_code.qmd
   
