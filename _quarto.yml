@@ -51,6 +51,8 @@ website:
           text: Week 8 Interactions
         - href: https://docs.google.com/presentation/d/1Gb-K3iXYxxd6AVBG6x8Vo5kJ98mUsKPe/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 9 Interactions Part 2
+        - href: https://docs.google.com/presentation/d/1HGP-bYB1ohdVTcNj8CV4z9vgiH8_eiNy/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 10 Selected Topics Part 1
       - text: Sample Code
         href: sample_code.qmd
   
