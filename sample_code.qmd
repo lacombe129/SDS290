@@ -43,3 +43,8 @@ The following links will take you to R code and data used for class.
 # Week 10- Sample code
 
 1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1HGqEc5qRXyToVU9P1uMGTD2EBsz-_PLV/view?usp=share_link)
+
+2.  <i class="bi bi-download"></i> Download [Thursday 4-6 code](https://drive.google.com/file/d/1I0euDuwLot9xebO_vFPe99LVH0qOZjZR/view?usp=share_link)
+
+3.  <i class="bi bi-download"></i> Download [Quarto Formatting](https://drive.google.com/file/d/1IPz6OywLW0SnVhcGhLIQzXAZfktM4O8K/view?usp=share_link)
+

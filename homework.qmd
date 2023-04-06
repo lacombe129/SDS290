@@ -20,3 +20,5 @@ editor: visual
     -   HW #6: 6.17, 6.31 (normal probability plot is the same as a QQ plot for reference), 6.36 (b-e), 6.37 (you can just do the `TukeyHSD()` command for confidence intervals/pairwise comparison)
 7.  Due Friday, April 7th
     -   HW #7: 7.5, 7.7, 7.8, 7.11, 7.12, 7.22, 7.23
+8.  Due Friday, April 21st
+    -   HW #8: 8.1, 8.3, 8.13, 8.27, 8.55
