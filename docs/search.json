@@ -74,7 +74,7 @@
     "href": "homework.html",
     "title": "Homeworks",
     "section": "",
-    "text": "Due Friday, January 26th (1a) and Feb 3rd (1b and 1c):\n\nHW #1a: Fill out introductory survey\nHW #1b: CITI Training\nHW #1c: Getting started with R\n\nDue Friday, Feb 10th:\n\nHW #2: 5.11, 5.16, 5.18, 5.27 (a only), 5.32\n\nnumbers indicate textbook exercises at the end of the chapter in Stat2\n\n\nDue Friday, Feb 17th:\n\nHW #3: 5.38, 5.54, 5.59, 5.60, 5.70\n\nDue Friday, Feb 24th:\n\nHW #4: 5.36, 5.43, 5.46, 5.61\n\nDue Friday, March 3\n\nHW #5: 6.1, 6.2, 6.7, 6.13, 6.16\n\nDue Friday, March 24\n\nHW #6: 6.17, 6.31 (normal probability plot is the same as a QQ plot for reference), 6.36 (b-e), 6.37 (you can just do the TukeyHSD() command for confidence intervals/pairwise comparison)\n\nDue Friday, April 7th\n\nHW #7: 7.5, 7.7, 7.8, 7.11, 7.12, 7.22, 7.23"
+    "text": "Due Friday, January 26th (1a) and Feb 3rd (1b and 1c):\n\nHW #1a: Fill out introductory survey\nHW #1b: CITI Training\nHW #1c: Getting started with R\n\nDue Friday, Feb 10th:\n\nHW #2: 5.11, 5.16, 5.18, 5.27 (a only), 5.32\n\nnumbers indicate textbook exercises at the end of the chapter in Stat2\n\n\nDue Friday, Feb 17th:\n\nHW #3: 5.38, 5.54, 5.59, 5.60, 5.70\n\nDue Friday, Feb 24th:\n\nHW #4: 5.36, 5.43, 5.46, 5.61\n\nDue Friday, March 3\n\nHW #5: 6.1, 6.2, 6.7, 6.13, 6.16\n\nDue Friday, March 24\n\nHW #6: 6.17, 6.31 (normal probability plot is the same as a QQ plot for reference), 6.36 (b-e), 6.37 (you can just do the TukeyHSD() command for confidence intervals/pairwise comparison)\n\nDue Friday, April 7th\n\nHW #7: 7.5, 7.7, 7.8, 7.11, 7.12, 7.22, 7.23\n\nDue Friday, April 21st\n\nHW #8: 8.1, 8.3, 8.13, 8.27, 8.55"
   },
   {
     "objectID": "R_code/anova_code1.html",
@@ -95,7 +95,7 @@
     "href": "sample_code.html",
     "title": "Sample R Code",
     "section": "",
-    "text": "Week 2 Anova\n\n Download anova_code1.qmd\n\n\n\nWeek 3- Anova Part 2\n\n Download anova_code2.qmd\n\n\n\nWeek 4- Anova Part 3\n\n Download anova_code3.qmd\n Download Box Data. Note this must be in the same file folder as the QMD file for the QMD file to successfully run.\n\n\n\nWeek 5- Sample code and Qualtrics data\n\n Download zip file\n Download sample code to help with homework\n\n\n\nWeek 6- Sample code\n\n Download code\n\n\n\nWeek 8- Sample code\n\n Download code\n\n\n\nWeek 9- Sample code\n\n Download code\n\n\n\nWeek 10- Sample code\n\n Download code"
+    "text": "Week 2 Anova\n\n Download anova_code1.qmd\n\n\n\nWeek 3- Anova Part 2\n\n Download anova_code2.qmd\n\n\n\nWeek 4- Anova Part 3\n\n Download anova_code3.qmd\n Download Box Data. Note this must be in the same file folder as the QMD file for the QMD file to successfully run.\n\n\n\nWeek 5- Sample code and Qualtrics data\n\n Download zip file\n Download sample code to help with homework\n\n\n\nWeek 6- Sample code\n\n Download code\n\n\n\nWeek 8- Sample code\n\n Download code\n\n\n\nWeek 9- Sample code\n\n Download code\n\n\n\nWeek 10- Sample code\n\n Download code\n Download Thursday 4-6 code\n Download Quarto Formatting"
   },
   {
     "objectID": "mp_1.html#assessment-criteria",
