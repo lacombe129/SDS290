@@ -50,4 +50,6 @@ The following links will take you to R code and data used for class.
 
 # Week 11- Sample code
 
-1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1K5RsViV8KFxmUTTefBEhJQSl0NSPThR_/view?usp=share_link)
+1.  <i class="bi bi-download"></i> Download [Formatting Pictures](https://drive.google.com/file/d/1K5RsViV8KFxmUTTefBEhJQSl0NSPThR_/view?usp=share_link)
+
+2.  <i class="bi bi-download"></i> Download [Multiple Regression](https://drive.google.com/file/d/1KDlGNv0dQeRzU6nl7kuMjQf9QmA5Ae8X/view?usp=share_link)
