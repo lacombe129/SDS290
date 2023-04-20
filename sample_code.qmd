@@ -17,13 +17,11 @@ The following links will take you to R code and data used for class.
 1.  <i class="bi bi-download"></i> Download [anova_code3.qmd](https://drive.google.com/file/d/19GMhSWHi9HIwepjtuMExUeEWMsNe7fo7/view?usp=share_link)
 2.  <i class="bi bi-download"></i> Download [Box Data](https://drive.google.com/file/d/19HBbv-nZNPG4VAb3C0EOs2XtQWcqK94z/view?usp=share_link). Note this must be in the same file folder as the QMD file for the QMD file to successfully run.
 
-
 # Week 5- Sample code and Qualtrics data
 
 1.  <i class="bi bi-download"></i> Download [zip file](https://drive.google.com/file/d/1AlOwSQe_hDLFDEfCiGq1vb3Mwgkumco9/view?usp=share_link)
- 
-2. <i class="bi bi-download"></i> Download [sample code to help with homework](https://drive.google.com/file/d/1BAfhoPOF2sA2MXD51PyvGT_mOq-YmGom/view?usp=share_link)
 
+2.  <i class="bi bi-download"></i> Download [sample code to help with homework](https://drive.google.com/file/d/1BAfhoPOF2sA2MXD51PyvGT_mOq-YmGom/view?usp=share_link)
 
 # Week 6- Sample code
 
@@ -33,12 +31,9 @@ The following links will take you to R code and data used for class.
 
 1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1EaMi3zlhj3j7_15fJgHeWoKMTw7vk-pc/view?usp=share_link)
 
-
-
 # Week 9- Sample code
 
 1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1GcV_wzwWkGgrWmuRTYhOVDBXPR46zZCD/view?usp=share_link)
-
 
 # Week 10- Sample code
 
@@ -53,3 +48,8 @@ The following links will take you to R code and data used for class.
 1.  <i class="bi bi-download"></i> Download [Formatting Pictures](https://drive.google.com/file/d/1K5RsViV8KFxmUTTefBEhJQSl0NSPThR_/view?usp=share_link)
 
 2.  <i class="bi bi-download"></i> Download [Multiple Regression](https://drive.google.com/file/d/1KDlGNv0dQeRzU6nl7kuMjQf9QmA5Ae8X/view?usp=share_link)
+
+
+# Week 12- Sample code for citations and tables
+
+1.  <i class="bi bi-download"></i> Download \[code\]https://drive.google.com/file/d/1LBQHNwNtjR3kgPRbdPUMH8zIlbn68zFm/view?usp=share_link)
