@@ -52,4 +52,4 @@ The following links will take you to R code and data used for class.
 
 # Week 12- Sample code for citations and tables
 
-1.  <i class="bi bi-download"></i> Download \[code\]https://drive.google.com/file/d/1LBQHNwNtjR3kgPRbdPUMH8zIlbn68zFm/view?usp=share_link)
+1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1LBQHNwNtjR3kgPRbdPUMH8zIlbn68zFm/view?usp=share_link)
