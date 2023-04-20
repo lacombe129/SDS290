@@ -43,3 +43,9 @@ The following links will take you to R code and data used for class.
 # Week 10- Sample code
 
 1.  <i class="bi bi-download"></i> Download [code](https://drive.google.com/file/d/1HGqEc5qRXyToVU9P1uMGTD2EBsz-_PLV/view?usp=share_link)
+
+
+# Week 11- Sample code for citations and tables
+
+1.  <i class="bi bi-download"></i> Download [code]https://drive.google.com/file/d/1LBQHNwNtjR3kgPRbdPUMH8zIlbn68zFm/view?usp=share_link)
+
