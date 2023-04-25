@@ -57,6 +57,8 @@ website:
           text: Week 11 Selected Topics Part 2
         - href: https://docs.google.com/presentation/d/1K_TbVrgW5Wcn6BGpNPcNKZ6KyLVRslMA/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
           text: Week 12 Selected Topics Part 3
+        - href: https://docs.google.com/presentation/d/1LDuHmXvfXbCOYGfGAiIXIfzCf023Up7T/edit?usp=share_link&ouid=105141350110500354644&rtpof=true&sd=true
+          text: Week 13 Review Day
       - text: Sample Code
         href: sample_code.qmd
   
