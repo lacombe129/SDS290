@@ -3,7 +3,7 @@ title: "Homeworks"
 editor: visual
 ---
 
-1.  Due Friday, January 26th (1a) and Feb 3rd (1b and 1c):
+1.  Due Friday, January 31st (1a) and Feb 3rd (1b and 1c):
     -   HW #1a: Fill out introductory survey
     -   HW #1b: [CITI Training](labs/Hw1_citi.pdf)
     -   [HW #1c: Getting started with R](intro_to_r.html)
